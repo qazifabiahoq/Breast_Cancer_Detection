@@ -35,3 +35,11 @@ Prediction: Classified as malignant (1) by the final Logistic Regression model.
 ## Conclusion
 
 The analysis demonstrates the effectiveness of machine learning models, particularly Logistic Regression and Random Forest, for breast cancer detection. Further optimization and tuning could enhance performance, making these models valuable for clinical applications. The code and analysis can be used to understand and implement similar machine learning tasks in healthcare and medical research.
+
+## Acknowledgement
+This project was completed with the help of the Udemy course "Machine Learning Projects for Beginners in Python" by John Bura. The course provided valuable insights and knowledge that were instrumental in completing this project. https://www.udemy.com/course/machine-learning-projects-for-beginners-in-python/learn/lecture/31593632?start=1#reviews
+
+
+
+
+
